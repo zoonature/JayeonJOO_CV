@@ -69,7 +69,7 @@
 ### Publications
 #### 파이썬으로 코딩하는 물리
 - Participated in programming  part
-- Code Drive : will be updated
+- Github : https://github.com/zoonature/Physics_programmed_by_python
 
 ---
 
