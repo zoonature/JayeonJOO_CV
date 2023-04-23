@@ -22,8 +22,8 @@
 - Bachelor of  Science in Software / Aerospace Engineering (Double Major)
 - GPA 3.89/4.5
 - _Advisor: Prof. Oh-young Song_
-#### Seoul National University, Seoul, Republic of Korea (09.2021 ~ present)
-- Integrated M.S. - Ph.D. Student in Department of Aerospace Engineering 
+#### Seoul National University, Seoul, Republic of Korea (09.2021 ~ 08.2023)
+- Master degree of Aerospace Engineering 
 - GPS 3.58/4.3
 - _Advisor: Prof. Chong-am Kim_
 
@@ -32,6 +32,8 @@
 #### Computational Fluid Dynamics
 - Data-driven CFD
 - Data-driven shock-capturing
+#### AI + Engineering
+- Physics-informed neural network
 #### Physics-based Animation
 - Fluid Simulation
 - Rigid Body Simulation
@@ -42,7 +44,7 @@
 #### Undergraduate student, Computer Graphics Laboratory, Sejong University, Republic of Korea (09.2017~08.2021)
 - Studied Physics-based Animation, especially Fluid Simulation
 - Participated in research on Fluid Simulation (SPH, CIP, etc.)
-#### Combined MS/PhD student, Aerodynamics Simulation & Design Laboratory, Seoul National University. Republic of Korea (09.2021~present)
+#### MS student, Aerodynamics Simulation & Design Laboratory, Seoul National University. Republic of Korea (09.2021~08.2023)
 - Studied Computational-Fluid-Dynamics, especially data-driven numerical method
 - Participated in research on data-driven numerical method (shock-capturing)
 
@@ -67,10 +69,17 @@
 
 ---
 
-### Publications
+### Book Publications
 #### 파이썬으로 코딩하는 물리
 - Participated in programming  part
 - Github : https://github.com/zoonature/Physics_programmed_by_python
+
+---
+
+### International Conference Publications
+#### Data-driven Limiting Strategy for Finite Volume Methods on Multi-dimensional Unstructured Meshes
+- D.Kim, J.Joo, H.You, K.Oh, C.Kim, H.Cho, T.Kim, M.Kang, and M.Choi,
+- 13th Asian Computational Fluid Dynamics Conference, 16-19 Oct. 2022, Jeju, Korea
 
 ---
 
