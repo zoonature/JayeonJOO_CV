@@ -24,6 +24,7 @@
 - _Advisor: Prof. Oh-young Song_
 #### Seoul National University, Seoul, Republic of Korea (09.2021 ~ present)
 - Integrated M.S. - Ph.D. Student in Department of Aerospace Engineering 
+- GPS 3.58/4.3
 - _Advisor: Prof. Chong-am Kim_
 
 ---
